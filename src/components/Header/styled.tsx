@@ -5,7 +5,7 @@ export const StyledHeader = styled.header`
   flex-direction: column;
   background: ${props => props.theme.header.background};
   color: ${props => props.theme.colors.secondaryColor};
-  padding: ${props => `${props.theme.sizes.padding1} ${props.theme.sizes.padding2}`};
+  padding: ${props => `${props.theme.sizes.size1} ${props.theme.sizes.size2}`};
 `;
 
 export const StyledTopSection = styled.section`
