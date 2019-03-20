@@ -2,6 +2,7 @@ import 'normalize.css';
 import 'react-placeholder/lib/reactPlaceholder.css';
 
 import React from 'react';
+import GoogleFontLoader from 'react-google-font-loader';
 import { ThemeProvider } from 'styled-components';
 
 import { Footer } from './components/Footer';
@@ -10,9 +11,12 @@ import { MainSection } from './components/MainSection';
 
 import { theme } from './theme';
 
+import { fonts } from './constants';
+
 const App: React.FunctionComponent = () => (
   <ThemeProvider theme={theme}>
     <>
+      <GoogleFontLoader fonts={fonts} />
       <Header />
       <MainSection />
       <Footer />

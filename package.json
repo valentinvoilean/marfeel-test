@@ -6,6 +6,7 @@
     "normalize.css": "^8.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-google-font-loader": "^1.0.5",
     "react-placeholder": "^3.0.2",
     "styled-components": "^4.1.3"
   },

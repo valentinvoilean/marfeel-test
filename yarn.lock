@@ -1754,7 +1754,7 @@ babel-plugin-named-asset-import@^0.3.1:
   resolved "https://registry.yarnpkg.com/babel-plugin-named-asset-import/-/babel-plugin-named-asset-import-0.3.1.tgz#5ec13ec446d0a1e5bb6c57a1f94c9cdedb0c50d6"
   integrity sha512-vzZlo+yEB5YHqI6CRRTDojeT43J3Wf3C/MVkZW5UlbSeIIVUYRKtxaFT2L/VTv9mbIyatCW39+9g/SZolvwRUQ==
 
-"babel-plugin-styled-components@>= 1", babel-plugin-styled-components@^1.10.0:
+"babel-plugin-styled-components@>= 1":
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-1.10.0.tgz#ff1f42ad2cc78c21f26b62266b8f564dbc862939"
   integrity sha512-sQVKG8irFXx14ZfaK1bBePirfkacl3j8nZwSZK+ZjsbnadRHKQTbhXbe/RB1vT6Vgkz45E+V95LBq4KqdhZUNw==
@@ -8302,6 +8302,13 @@ react-error-overlay@^5.1.4:
   version "5.1.4"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.1.4.tgz#88dfb88857c18ceb3b9f95076f850d7121776991"
   integrity sha512-fp+U98OMZcnduQ+NSEiQa4s/XMsbp+5KlydmkbESOw4P69iWZ68ZMFM5a2BuE0FgqPBKApJyRuYHR95jM8lAmg==
+
+react-google-font-loader@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-google-font-loader/-/react-google-font-loader-1.0.5.tgz#83b3c6c01a97acbf4da0752a2fb2c21c1c413778"
+  integrity sha512-Cpr3C96lBIQoXgmVwSo52Uc9oMnLOYuqArmPw63CuttBc27R0YpTeDINR39jPM/d5WofIbGpQFi66K4ts9G6Lg==
+  dependencies:
+    prop-types "^15.6.2"
 
 react-is@^16.6.0, react-is@^16.8.1:
   version "16.8.4"
