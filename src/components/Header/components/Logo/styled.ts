@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
 export const StyledLogo = styled.img`
-  width: 100px;
-  height: 25px;
+  width: ${props => props.theme.header.logo.width};
+  height: ${props => props.theme.header.logo.height};
 `;

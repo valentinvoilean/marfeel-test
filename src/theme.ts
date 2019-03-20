@@ -1,3 +1,5 @@
+import logo from './img/marfeel_logo.svg';
+
 export const theme = {
   colors: {
     primaryColor: 'black',
@@ -13,7 +15,13 @@ export const theme = {
     size5: '50px'
   },
   header: {
-    background: 'rgb(2,0,36)'
+    background: 'rgb(2,0,36)',
+    logo: {
+      width: '100px',
+      height: '25px',
+      src: logo,
+      title: 'Logo'
+    }
   },
   footer: {
     background: '#f2f2f2',
