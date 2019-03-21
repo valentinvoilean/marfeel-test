@@ -16,6 +16,26 @@ export const theme = {
   },
   header: {
     background: 'rgb(2,0,36)',
+    fontFamily: 'Roboto',
+    nav: {
+      fontWeight: '400',
+      fontSize: '14px',
+      borderWidth: '2px',
+      itemPadding: '2px',
+      colour: 'white',
+      items: [
+        'Section 1',
+        'Section 2',
+        'Section 3',
+        'Section 4',
+        'Section 5',
+        'Section 6',
+        'Section 7',
+        'Section 8',
+        'Section 9',
+        'Section 10'
+      ]
+    },
     logo: {
       width: '100px',
       height: '25px',
