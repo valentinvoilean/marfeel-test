@@ -9,7 +9,7 @@ export const StyledBurgerMenu = styled.button`
     
   height: 16px;
   width: 20px;
-  position: relative;
+  position: absolute;
 `;
 
 export const StyledBurgerMenuInner = styled.div`
@@ -17,7 +17,7 @@ export const StyledBurgerMenuInner = styled.div`
   width: 20px;
   height: 2px;
   border-radius: 2px;
-  background-color: #fff;
+  background-color: ${({ theme }) => theme.header.menuButton.color};
   top: 7px;
 
   :before,
@@ -28,7 +28,7 @@ export const StyledBurgerMenuInner = styled.div`
     width: 20px;
     height: 2px;
     border-radius: 2px;
-    background-color: #fff;
+    background-color: ${({ theme }) => theme.header.menuButton.color};
   }
 
   :before {
@@ -38,4 +38,15 @@ export const StyledBurgerMenuInner = styled.div`
   :after {
     bottom: -6px;
   }
+`;
+
+export const StyledBurgerMenuWrapper = styled.div`
+  position: fixed;
+  top: 3px;
+  left: 5px;
+  background: ${({ theme }) => theme.header.menuButton.background};
+  width: 20px;
+  height: 16px;
+  padding: 12px 10px 12px 10px;
+  border-radius: 50%;
 `;

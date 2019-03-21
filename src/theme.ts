@@ -17,6 +17,10 @@ export const theme = {
   header: {
     background: 'rgb(2,0,36)',
     fontFamily: 'Roboto',
+    menuButton: {
+      color: 'white',
+      background: 'linear-gradient(to bottom, #fd8d00 0%,#98cd00 100%)'
+    },
     nav: {
       fontWeight: '400',
       fontSize: '14px',
