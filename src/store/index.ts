@@ -1,3 +1,5 @@
+import { loadingBarReducer } from 'react-redux-loading-bar';
+
 import { applyMiddleware, combineReducers, createStore } from 'redux';
 import { composeWithDevTools } from 'redux-devtools-extension';
 import thunkMiddleware from 'redux-thunk';
@@ -7,7 +9,8 @@ import { themeReducer } from './theme/reducer';
 
 const rootReducer = combineReducers({
   sideMenu: sideMenuReducer,
-  theme: themeReducer
+  theme: themeReducer,
+  loadingBar: loadingBarReducer
 });
 
 export type AppState = ReturnType<typeof rootReducer>;

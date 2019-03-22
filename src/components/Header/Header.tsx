@@ -1,5 +1,6 @@
 import throttle from 'lodash.throttle';
 import React from 'react';
+import LoadingBar from 'react-redux-loading-bar';
 
 import { StyledHeader, StyledRightSideSection, StyledTopSection } from './styled';
 
@@ -47,6 +48,7 @@ export class Header extends React.PureComponent<{}, HeaderState> {
 
     return (
       <StyledHeader>
+        <LoadingBar />
         <StyledTopSection>
           <BurgerMenu />
           <StyledRightSideSection>

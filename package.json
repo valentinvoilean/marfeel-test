@@ -12,6 +12,7 @@
     "react-google-font-loader": "^1.0.5",
     "react-placeholder": "^3.0.2",
     "react-redux": "^6.0.1",
+    "react-redux-loading-bar": "^4.2.0",
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
