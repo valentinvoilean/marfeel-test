@@ -1,3 +1,5 @@
 import { combineReducers } from 'redux';
 
-export default combineReducers({});
+import sideMenu from './sideMenu';
+
+export default combineReducers({ sideMenu });

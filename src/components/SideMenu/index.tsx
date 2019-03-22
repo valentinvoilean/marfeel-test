@@ -1,1 +1,1 @@
-export * from './SideMenu';
+export { SideMenuContainer as SideMenu } from './container';

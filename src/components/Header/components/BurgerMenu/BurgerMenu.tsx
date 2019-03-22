@@ -4,9 +4,11 @@ import { StyledBurgerMenu, StyledBurgerMenuInner, StyledBurgerMenuWrapper } from
 
 import { BurgerMenuProps } from './types';
 
-export const BurgerMenu: React.FunctionComponent<BurgerMenuProps> = ({ showWrapper }) => {
+export const BurgerMenu: React.FunctionComponent<BurgerMenuProps> = ({ showWrapper, toggleSideMenu }) => {
+  const handleClick = () => toggleSideMenu();
+
   const button = (
-    <StyledBurgerMenu>
+    <StyledBurgerMenu onClick={handleClick}>
       <StyledBurgerMenuInner />
     </StyledBurgerMenu>
   );

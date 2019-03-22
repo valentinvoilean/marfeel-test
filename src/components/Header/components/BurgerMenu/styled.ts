@@ -10,6 +10,7 @@ export const StyledBurgerMenu = styled.button`
   height: 16px;
   width: 20px;
   position: absolute;
+  cursor: pointer;
 `;
 
 export const StyledBurgerMenuInner = styled.div`
@@ -49,4 +50,5 @@ export const StyledBurgerMenuWrapper = styled.div`
   height: 16px;
   padding: 12px 10px 12px 10px;
   border-radius: 50%;
+  cursor: pointer;
 `;
