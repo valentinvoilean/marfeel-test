@@ -13,9 +13,15 @@ import { SideMenu } from '../components/SideMenu';
 import { fonts } from './constants';
 import { AppProps } from './types';
 
+import { mock } from './mocks';
+
 export class App extends React.PureComponent<AppProps> {
   public componentDidMount(): void {
     this.props.loadTheme();
+  }
+
+  public componentWillUnmount(): void {
+    mock.restore();
   }
 
   public render(): JSX.Element {
