@@ -1,6 +1,7 @@
 import logo from './img/marfeel_logo.svg';
+import { ThemeProps } from './types';
 
-export const theme = {
+export const theme: ThemeProps = {
   colors: {
     primaryColor: 'black',
     secondaryColor: 'white',
