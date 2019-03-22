@@ -14,16 +14,23 @@ import {
 
 import { SideMenuProps } from './types';
 
-export const SideMenu: React.FunctionComponent<SideMenuProps> = ({ isSideMenuVisible, toggleSideMenu }) => {
-  if (!isSideMenuVisible) {
-    return null;
-  }
-
+export const SideMenu: React.FunctionComponent<SideMenuProps> = ({
+  isSideMenuVisible,
+  toggleSideMenu,
+  changeActiveItem,
+  activeItem
+}) => {
   const handleClick = () => toggleSideMenu(false);
 
+  const handleLinkClick = (index: number) => () => {
+    changeActiveItem(index);
+    toggleSideMenu(false);
+  };
+
   return (
-    <StyledTransparentShim onClick={handleClick}>
-      <StyledSideMenu>
+    <>
+      <StyledTransparentShim onClick={handleClick} isVisible={isSideMenuVisible} />
+      <StyledSideMenu isVisible={isSideMenuVisible}>
         <StyledHeader>
           <Logo />
         </StyledHeader>
@@ -33,7 +40,7 @@ export const SideMenu: React.FunctionComponent<SideMenuProps> = ({ isSideMenuVis
               {theme =>
                 theme.sideMenu.items.map((item: string, index: number) => (
                   <StyledItem key={index}>
-                    <StyledLink isActive={index === 0} href={`#${index + 1}`} onClick={handleClick}>
+                    <StyledLink isActive={index === activeItem} href={`#${index + 1}`} onClick={handleLinkClick(index)}>
                       {item}
                     </StyledLink>
                   </StyledItem>
@@ -43,6 +50,6 @@ export const SideMenu: React.FunctionComponent<SideMenuProps> = ({ isSideMenuVis
           </StyledList>
         </StyledNav>
       </StyledSideMenu>
-    </StyledTransparentShim>
+    </>
   );
 };
