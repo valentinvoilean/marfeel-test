@@ -3,9 +3,11 @@ import { composeWithDevTools } from 'redux-devtools-extension';
 import thunkMiddleware from 'redux-thunk';
 
 import { sideMenuReducer } from './sideMenu/reducer';
+import { themeReducer } from './theme/reducer';
 
 const rootReducer = combineReducers({
-  sideMenu: sideMenuReducer
+  sideMenu: sideMenuReducer,
+  theme: themeReducer
 });
 
 export type AppState = ReturnType<typeof rootReducer>;
