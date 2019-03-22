@@ -5,7 +5,8 @@ export const theme = {
     primaryColor: 'black',
     secondaryColor: 'white',
     gray1: '#E0E0E0',
-    gray2: '#f2f2f2'
+    gray2: '#f2f2f2',
+    gray3: '#b9b9b9'
   },
   sizes: {
     size1: '10px',
@@ -13,6 +14,27 @@ export const theme = {
     size3: '20px',
     size4: '40px',
     size5: '50px'
+  },
+  sideMenu: {
+    headerBackground: 'rgb(2,0,36)',
+    bodyBackground: 'white',
+    linkColor: '#b9b9b9',
+    linkColorActive: '#de0000',
+    fontFamily: 'Roboto',
+    fontWeight: '400',
+    fontSize: '16px',
+    items: [
+      'Side Link 1',
+      'Side Link 2',
+      'Side Link 3',
+      'Side Link 4',
+      'Side Link 5',
+      'Side Link 6',
+      'Side Link 7',
+      'Side Link 8',
+      'Side Link 9',
+      'Side Link 10'
+    ]
   },
   header: {
     background: 'rgb(2,0,36)',

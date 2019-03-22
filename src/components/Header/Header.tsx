@@ -3,8 +3,8 @@ import React from 'react';
 
 import { StyledHeader, StyledRightSideSection, StyledTopSection } from './styled';
 
+import { Logo } from '../shared/Logo';
 import { BurgerMenu } from './components/BurgerMenu';
-import { Logo } from './components/Logo';
 import { Navigation } from './components/Navigation';
 
 import { HeaderState } from './types';
