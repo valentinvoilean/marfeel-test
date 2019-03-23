@@ -28,6 +28,8 @@ Builds the app for production to the `build` folder.
 The HTML page is generated completely by the `react-static-generator`. The result can be seen in `build/index.html`.
 
 ## Other info
+[x] installed & configured Tslint, Prettier, Editorconfig, Husky
+
 [x] installed Redux & Redux Thunks
 
 [x] installed StyledComponents
