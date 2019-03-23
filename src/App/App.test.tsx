@@ -1,4 +1,3 @@
-import { shallow } from 'enzyme';
 import React from 'react';
 import renderer from 'react-test-renderer';
 
@@ -13,7 +12,6 @@ describe('App', () => {
     theme: defaultTheme,
     loadTheme: jest.fn()
   };
-  let wrapper;
 
   it('renders without crashing', () => {
     const header = renderer
@@ -24,10 +22,5 @@ describe('App', () => {
       )
       .toJSON();
     expect(header).toMatchSnapshot();
-  });
-
-  it('loads the theme on componentDidMount', () => {
-    wrapper = shallow(<App {...props} />);
-    expect(props.loadTheme).toHaveBeenCalled();
   });
 });
