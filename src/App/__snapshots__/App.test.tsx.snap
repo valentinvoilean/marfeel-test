@@ -1,0 +1,2216 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders without crashing 1`] = `
+Array [
+  <header
+    className="sc-bxivhb isKusw"
+  >
+    <div />
+    <section
+      className="sc-ifAKCX hriAMM"
+    >
+      <button
+        className="sc-gzVnrw jgvDYW"
+        onClick={[Function]}
+      >
+        <div
+          className="sc-htoDjs koUJlo"
+        />
+      </button>
+      <div
+        className="sc-EHOje bcDYwv"
+      >
+        <img
+          alt="Logo"
+          className="sc-bZQynM iTyWRT"
+          src="marfeel_logo.svg"
+        />
+      </div>
+    </section>
+    <nav
+      className="sc-iwsKbI gTeOgQ"
+    >
+      <ul
+        className="sc-gZMcBi fWwmcn"
+      >
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT fGUFOl"
+            href="#1"
+          >
+            Section 1
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#2"
+          >
+            Section 2
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#3"
+          >
+            Section 3
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#4"
+          >
+            Section 4
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#5"
+          >
+            Section 5
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#6"
+          >
+            Section 6
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#7"
+          >
+            Section 7
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#8"
+          >
+            Section 8
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#9"
+          >
+            Section 9
+          </a>
+        </li>
+        <li
+          className="sc-gqjmRU NjsFB"
+        >
+          <a
+            className="sc-VigVT cyrOTs"
+            href="#10"
+          >
+            Section 10
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>,
+  <section
+    className="sc-fjdhpX bFQgMt"
+  >
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      className="media-block sc-jTzLTM hVNvFC"
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        className="round-shape"
+        style={
+          Object {
+            "backgroundColor": "#E0E0E0",
+            "borderRadius": "500rem",
+            "height": "100%",
+            "marginRight": 10,
+            "minHeight": 55,
+            "minWidth": 55,
+            "width": 55,
+          }
+        }
+      />
+      <div
+        className="text-block"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": 0,
+              "maxHeight": "14.285714285714286%",
+              "width": "97%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "100%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "94%",
+            }
+          }
+        />
+        <div
+          className="text-row"
+          style={
+            Object {
+              "backgroundColor": "#E0E0E0",
+              "height": "1em",
+              "marginTop": "0.7em",
+              "maxHeight": "14.285714285714286%",
+              "width": "90%",
+            }
+          }
+        />
+      </div>
+    </div>
+  </section>,
+  <footer
+    className="sc-bdVaJa dvqQKP"
+  >
+    <div
+      className="sc-htpNat cAplqt"
+    >
+      <img
+        alt="skyline"
+        src="skyline.svg"
+      />
+    </div>
+    <div
+      className="sc-bwzfXH dBVglM"
+    >
+      ©Copyright 2019 - marfeel.com
+    </div>
+  </footer>,
+  <div
+    className="sc-jzJRlG bLBwpv"
+    onClick={[Function]}
+  />,
+  <div
+    className="sc-cSHVUG CCysH"
+  >
+    <header
+      className="sc-kAzzGY krdgTu"
+    >
+      <img
+        alt="Logo"
+        className="sc-bZQynM iTyWRT"
+        src="marfeel_logo.svg"
+      />
+    </header>
+    <nav
+      className="sc-chPdSV emgfjo"
+    >
+      <ul
+        className="sc-kgoBCf bzBewh"
+      >
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX ciitYQ"
+            href="#1"
+            onClick={[Function]}
+          >
+            Side Link 1
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#2"
+            onClick={[Function]}
+          >
+            Side Link 2
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#3"
+            onClick={[Function]}
+          >
+            Side Link 3
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#4"
+            onClick={[Function]}
+          >
+            Side Link 4
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#5"
+            onClick={[Function]}
+          >
+            Side Link 5
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#6"
+            onClick={[Function]}
+          >
+            Side Link 6
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#7"
+            onClick={[Function]}
+          >
+            Side Link 7
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#8"
+            onClick={[Function]}
+          >
+            Side Link 8
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#9"
+            onClick={[Function]}
+          >
+            Side Link 9
+          </a>
+        </li>
+        <li
+          className="sc-kGXeez cZkxUh"
+        >
+          <a
+            className="sc-kpOJdX jpiiFT"
+            href="#10"
+            onClick={[Function]}
+          >
+            Side Link 10
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>,
+]
+`;
