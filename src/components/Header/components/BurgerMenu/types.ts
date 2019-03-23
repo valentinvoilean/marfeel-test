@@ -1,6 +1,7 @@
+import { AdditionalHandlersProps } from './withAdditionalHandlers';
 import { ReduxConnectProps } from './withReduxConnect';
 
-export type ComposedProps = ReduxConnectProps;
+export type ComposedProps = ReduxConnectProps & AdditionalHandlersProps;
 
 export interface OwnProps {
   showWrapper?: boolean;

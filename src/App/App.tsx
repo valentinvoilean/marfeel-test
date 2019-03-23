@@ -13,28 +13,16 @@ import { SideMenu } from '../components/SideMenu';
 import { fonts } from './constants';
 import { AppProps } from './types';
 
-import { mock } from './mocks';
+import './mocks';
 
-export class App extends React.PureComponent<AppProps> {
-  public componentDidMount(): void {
-    this.props.loadTheme();
-  }
-
-  public componentWillUnmount(): void {
-    mock.restore();
-  }
-
-  public render(): JSX.Element {
-    return (
-      <ThemeProvider theme={this.props.theme}>
-        <>
-          <GoogleFontLoader fonts={fonts} />
-          <Header />
-          <MainSection />
-          <Footer />
-          <SideMenu />
-        </>
-      </ThemeProvider>
-    );
-  }
-}
+export const App: React.FunctionComponent<AppProps> = ({ theme }) => (
+  <ThemeProvider theme={theme}>
+    <>
+      <GoogleFontLoader fonts={fonts} />
+      <Header />
+      <MainSection />
+      <Footer />
+      <SideMenu />
+    </>
+  </ThemeProvider>
+);

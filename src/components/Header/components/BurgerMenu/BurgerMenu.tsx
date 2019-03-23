@@ -4,24 +4,18 @@ import { StyledBurgerMenu, StyledBurgerMenuInner, StyledBurgerMenuWrapper } from
 
 import { BurgerMenuProps } from './types';
 
-export class BurgerMenu extends React.PureComponent<BurgerMenuProps> {
-  public render(): JSX.Element {
-    const { showWrapper } = this.props;
+export const BurgerMenu: React.FunctionComponent<BurgerMenuProps> = props => {
+  const { handleClick, showWrapper } = props;
 
-    const button = (
-      <StyledBurgerMenu onClick={this.handleClick}>
-        <StyledBurgerMenuInner />
-      </StyledBurgerMenu>
-    );
+  const button = (
+    <StyledBurgerMenu onClick={handleClick}>
+      <StyledBurgerMenuInner />
+    </StyledBurgerMenu>
+  );
 
-    if (showWrapper) {
-      return <StyledBurgerMenuWrapper>{button}</StyledBurgerMenuWrapper>;
-    }
-
-    return button;
+  if (showWrapper) {
+    return <StyledBurgerMenuWrapper>{button}</StyledBurgerMenuWrapper>;
   }
 
-  private handleClick = () => {
-    this.props.toggleSideMenu();
-  };
-}
+  return button;
+};
